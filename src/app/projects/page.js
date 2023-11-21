@@ -11,7 +11,7 @@ export const Progectss = [
     name: "React-Blog",
     Tipe: "react",
     imagee: "/projects/react-blog.png",
-    URL: "https://zain97z.github.io/React-Blog/",
+    URL: "https://metaverse-three-beta.vercel.app/",
     code: "https://github.com/Zain97z/React-Blog",
   },
   {

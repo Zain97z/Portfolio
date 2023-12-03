@@ -18,8 +18,8 @@ export const Progectss = [
     name: "Sniper",
     Tipe: "static",
     imagee: "/projects/sniper.png",
-    URL: "https://montagabalhamawy.github.io/Sniper/",
-    code: "https://zain97z.github.io/Sniper/",
+    URL: "https://zain97z.github.io/Sniper/",
+    code: "https://github.com/Zain97z/Sniper",
   },
   {
     name: "Klinder-Design",
@@ -35,6 +35,7 @@ export const Progectss = [
     URL: "https://zain97z.github.io/Klinder/",
     code: "https://github.com/Zain97z/Klinder",
   },
+
   {
     name: "X-O Game",
     Tipe: "static",

@@ -109,17 +109,7 @@ function About() {
       <motion.div
         variants={fadeIn("down", "tween", 0.6, 1)}
         className="xl:container pl-0 flex justify-center items-cente w-full mr-0 pt-0 xl:pt-48 pb-10 xl:pb-20  xl:mr-[-50px]"
-      >
-        <div className="bg-accent shadow-sm pb-10 pt-10 flex items-center justify-center rounded-tl-full rounded-br-full  mx-auto">
-          <Image
-            src={"/About.jpg"}
-            width={300}
-            height={200}
-            alt="about"
-            className="rounded-tl-xl rounded-br-xl"
-          />
-        </div>
-      </motion.div>
+      ></motion.div>
     </motion.div>
   );
 }

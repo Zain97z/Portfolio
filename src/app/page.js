@@ -48,7 +48,7 @@ export default function Home() {
           className="bg-accent shadow-sm w-[300px] pb-[3.3rem] container flex items-center justify-center rounded-tr-full rounded-bl-full  mx-auto"
         >
           <Image
-            src={"/montagab.png"}
+            src={"/Zain.jpg"}
             width={200}
             height={200}
             alt="Zain"
